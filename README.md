@@ -1,3 +1,3 @@
 # JustTest
-Just test, really
+Just test.
 In this case I test alternative branches
